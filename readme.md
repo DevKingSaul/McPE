@@ -28,7 +28,7 @@
 
 
 # Proposed Protocol Encryption (Compatible)
-### Shared Secret is calucalted from keypairs
+### Shared Secret is calculated from keypairs
 ## Login Start (Client > Server)
 | Username | The Username of player logging in |
 | :---: | :--- |
