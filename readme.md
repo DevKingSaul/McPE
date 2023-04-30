@@ -57,3 +57,12 @@
 | :---: | :--- |
 | Verify Token | Verify token sent by server encrypted with the shared secret |
 #### Encryption is Enabled
+
+## Set Compression (Server > Client)
+| Threshold | The Minimum Byte Size for Compression |
+| :---: | :--- |
+
+## Login Success (Server > Client)
+| UUID | The Unique Identifier for the player logging in |
+| :---: | :--- |
+| Username | The Username of player logging in |
