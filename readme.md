@@ -40,9 +40,8 @@
 | Data | empty |
 
 ## Login Plugin Response (Client > Server)
-| Message ID | Random Variable Integer |
-| :---: | :--- |
 | Message ID | Same Message ID as previous packet |
+| :---: | :--- |
 | Successful | Yes |
 | Data | empty |
 
@@ -82,9 +81,8 @@
 | Data | empty |
 
 ## Login Plugin Response (Client > Server)
-| Message ID | Random Variable Integer |
-| :---: | :--- |
 | Message ID | Same Message ID as previous packet |
+| :---: | :--- |
 | Successful | No |
 
 ## Encryption Request (Server > Client)
